@@ -1,0 +1,5 @@
+Solution is to use git workflow
+Where creating a developer branch under master branch and creating sub branches under developer branch and commiting changes to developer branch once sub-branches are totally modifed or worked upon
+once we have enough changes or commit mades for an application for a release then commit it to main branch 
+I have tried it using https://github.com/mounikajasti/devops_course_git/tree/master
+Please verify and let me know feedback
